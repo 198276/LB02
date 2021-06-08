@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77a4d2ce-df5e-42c1-893b-a7d062f369c7" name="Default Changelist" comment="">
+    <list default="true" id="77a4d2ce-df5e-42c1-893b-a7d062f369c7" name="Default Changelist" comment="test 1">
+      <change afterPath="$PROJECT_DIR$/analog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/digital.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my favourites.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LB_02.html" beforeDir="false" afterPath="$PROJECT_DIR$/LB_02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/work.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,13 +20,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1t27jTCBm3ly6usBRuW75taVcZg" />
   <component name="ProjectViewState">
@@ -50,12 +59,24 @@
       <workItem from="1623136756621" duration="147000" />
       <workItem from="1623140193191" duration="100000" />
       <workItem from="1623142418128" duration="121000" />
-      <workItem from="1623155182940" duration="198000" />
+      <workItem from="1623155182940" duration="298000" />
+      <workItem from="1623156524147" duration="5148000" />
     </task>
+    <task id="LOCAL-00001" summary="test 1">
+      <created>1623155811405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623155811405</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -68,5 +89,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test 1" />
   </component>
 </project>

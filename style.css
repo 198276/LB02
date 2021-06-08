@@ -1,1 +1,28 @@
-.navbar {padding-left: 100px}
+.navbar {
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.card {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.flex-mother {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 95%;
+}
+.about{
+    padding-left: 100px;
+    padding-top: 75px;
+    max-width: 80%;
+    font-family: Arial;
+    text-justify: auto;
+    font-size: 28px;
+}
+.me{
+    padding-top: 100px;
+    padding-left: 100px;
+    font-family:"Arial Black";
+    font-size: 54px;
+}
