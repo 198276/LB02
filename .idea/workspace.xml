@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77a4d2ce-df5e-42c1-893b-a7d062f369c7" name="Default Changelist" comment="test 01">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LB_02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/analog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cat.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deidara.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/digital.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/face.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/girl.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my favourites.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/purple.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style_02.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style_02.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turquoise.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vampire.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yellow.jpeg" beforeDir="false" />
-    </list>
+    <list default="true" id="77a4d2ce-df5e-42c1-893b-a7d062f369c7" name="Default Changelist" comment="test 01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +76,7 @@
       <workItem from="1624375227935" duration="3000" />
       <workItem from="1624375237406" duration="8000" />
       <workItem from="1624378880058" duration="48000" />
-      <workItem from="1624378946909" duration="28000" />
+      <workItem from="1624378946909" duration="112000" />
     </task>
     <task id="LOCAL-00001" summary="test 1">
       <created>1623155811405</created>
@@ -120,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624372726473</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test 01">
+      <created>1624379003853</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624379003853</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
