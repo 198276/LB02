@@ -23,6 +23,33 @@
 .me{
     padding-top: 100px;
     padding-left: 100px;
-    font-family:"Arial Black";
+    font-family:"Arial";
+    font-weight: bold;
     font-size: 54px;
 }
+
+#carousel{
+    padding-top: 200px;
+    padding-left: 100px;
+
+}
+
+
+.card-title{
+    font-family: "Arial";
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.portfolio{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 54px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.bg-light{
+
+}
+
