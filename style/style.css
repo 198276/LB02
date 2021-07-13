@@ -184,6 +184,12 @@ section {
     margin-bottom: 30px;
 }
 
+.portfolio-item{
+    border-color: #444444;
+    border-width: 5px;
+    border-style: solid;
+}
+
 .video{
     padding-top: 10px;
     display: block;
@@ -194,6 +200,12 @@ section {
 .video {
     display: flex;
     justify-content: center;
+}
+
+.video{
+    border-color: #444444;
+    border-width: 5px;
+    border-style: solid;
 }
 
 .contact .info-box {
